@@ -29,7 +29,7 @@ Email：leeyb0809@163.com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The impact of environmental education at Chinese Universities on college students’ environmental attitudes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299231)
@@ -41,7 +41,7 @@ Email：leeyb0809@163.com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [College students’ knowledge, attitudes, and practices of garbage sorting and their associations: a cross-sectional study of several universities in Beijing, China](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1328583/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Public_Health&id=1328583)
