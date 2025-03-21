@@ -102,17 +102,17 @@ Email：leeyb0809@163.com
 
 
 
-# 🎖 Honors and Awards
+# 🎖 Scientific research projects
 - 
 
 # 📖 Educations
 - 2020.09 - 2024.09，马克思主义学院  博士，中国地质大学（北京）。
 - 2017.09 - 2020.06，马克思主义学院  硕士，中国地质大学（北京）。
 
-# 💬 Invited Talks
+# 💬 Honors and awards
 - 
 
-# 💻 Internships
+# 💻 Links
 
 - 2022.06-2022.09，中电华影电影院线有限公司，北京
 - 2020.07-2021.07，中国地质大学（北京）附属中学，北京
