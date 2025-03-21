@@ -23,10 +23,10 @@ redirect_from:
 Email：leeyb0809@163.com
 
 
-# 🔥 动态
+# 🔥 News
 - *2025.03.21*: &nbsp;🎉🎉 正式开通个人学术主页。 
 
-# 📝 学术成果 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLosOne 2024</div><img src='images/PLosOne.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -102,17 +102,17 @@ Email：leeyb0809@163.com
 
 
 
-# 🎖 科研项目
+# 🎖 Honors and Awards
 - 
 
-# 📖 个人奖项
-
-
-# 💬 教育背景
+# 📖 Educations
 - 2020.09 - 2024.09，马克思主义学院  博士，中国地质大学（北京）。
 - 2017.09 - 2020.06，马克思主义学院  硕士，中国地质大学（北京）。
 
-# 💻 常用链接
+# 💬 Invited Talks
+- 
+
+# 💻 Internships
 
 - 2022.06-2022.09，中电华影电影院线有限公司，北京
 - 2020.07-2021.07，中国地质大学（北京）附属中学，北京
