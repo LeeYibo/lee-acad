@@ -34,7 +34,7 @@ Email：leeyb0809@163.com
 
 [The impact of environmental education at Chinese Universities on college students’ environmental attitudes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299231)
 
-**Kaiming He**, Yibo Li ,Dongli Yang,Siyuan Liu
+**Authors：**, Yibo Li ,Dongli Yang,Siyuan Liu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -46,7 +46,7 @@ Email：leeyb0809@163.com
 
 [College students’ knowledge, attitudes, and practices of garbage sorting and their associations: a cross-sectional study of several universities in Beijing, China](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1328583/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Public_Health&id=1328583)
 
-**Kaiming He**, Siyuan Liu*, Xiong Liu, Yibo Li ,Dongli Yang, Feng Li, Junling Yang
+**Authors：**, Siyuan Liu*, Xiong Liu, Yibo Li ,Dongli Yang, Feng Li, Junling Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -58,7 +58,7 @@ Email：leeyb0809@163.com
 
 [中国共产党马克思主义教育的回顾与启示](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs7pe2j0Jp6qT0R6u0DoJrYSx7XKT6KbXt9Di6kSGm41ZBvSUZjXbe6MuT1wQH9HtpbXLkC6HAlqIRmtAzFlijXjlSZC1MnO5Pb4OzY4e-23LhSron_VJR3UBiQ2T_gfEKo2py4RUVqrqH-sb11In2FwT-ecYX5NzsP1lDt1bEo8_Mgc3dYkPzlW&uniplatform=NZKPT&language=CHS)
 
-**Kaiming He**, 杨峻岭,李毅博
+**Authors：**, 杨峻岭,李毅博
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -70,7 +70,7 @@ Email：leeyb0809@163.com
 
 [对中国传统道德规范的几点认识——访中国人民大学宋希仁教授](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs5fPIIpMo3IREi7T_9ffY4PQnEOgNwsWR1RunPBWo3aGpgmhK_NypKh23P9W8Q6J3dsAksPDIbxdCK3xvlFeOP_NCHKHbGJKcTKge6C9oSEwlRrd8O0DSx-xmU38U8RHylVTMe3XWRw2pFZOXuBgfbFJDKWw4sn4EngsH_L8zPG4dvTFCInAWzd&uniplatform=NZKPT&language=CHS)
 
-**Kaiming He**, 宋希仁,李毅博
+**Authors**, 宋希仁,李毅博
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -82,7 +82,7 @@ Email：leeyb0809@163.com
 
 [传统家训的价值传承及其创新发展——以宋代《袁氏世范》为主要对象](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs4Me6QAx32ER1SGDSnDroVuQKs2O5ZVmw-43P6wBRJJZAW2Lz_gq_itXZiNbIil--XwvdJAJtJFm9E-WT3gaP_LbwC4UVZapC0uTHoEI_-NvyGuRbLCNF95OTZVxKRn76ubi1iGukPRyGQ_5O_zDPV6hSEGcI6uLeL36MChi1Sisq_N8BcyL3teALPrkD7Be7o=&uniplatform=NZKPT&language=CHS)
 
-**Kaiming He**, 杨峻岭,李毅博
+**Authors：**, 杨峻岭,李毅博
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -94,7 +94,7 @@ Email：leeyb0809@163.com
 
 [网络谣言产生的原因分析——基于传播学与心理学的视角](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs6NI3NWNrN5eFGqRQN3pmG1K1FZ9ww3cDd54_VzzlG5jJtvQ_hAUt7zNP4MRLm7ZKJNiirKSWjUnKpG_9vowZfGH9gbUjrNcmF6wcSX3OdP0FcL7ZzVi2vTtbk9k2rVaVXtVpeF9bIhguWnc798UyPHRpdItGqiIqV4hWS6Kz-Iw2nh-SPQa8tG&uniplatform=NZKPT&language=CHS)
 
-**Kaiming He**, 冯君颢,李毅博
+**Authors：**, 冯君颢,李毅博
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
