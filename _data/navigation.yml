@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "动态"
-    url: "/#-动态"
+    url: "/#-news"
 
   - title: "学术成果"
-    url: "/#-学术成果"
+    url: "/#-publications"
 
   - title: "科研项目"
-    url: "/# 🎖 科研项目"
+    url: "/#-honors-and-awards"
 
   - title: "个人奖项"
-    url: "/#-个人奖项"
+    url: "/#-educations"
 
   - title: "教育背景"
-    url: "/#-教育背景"
+    url: "/#-invited-talks"
 
   - title: "常用链接"
-    url: "/#-常用链接"
+    url: "/#-internships"
