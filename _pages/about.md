@@ -53,6 +53,55 @@ Email：leeyb0809@163.com
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[中国共产党马克思主义教育的回顾与启示](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs7pe2j0Jp6qT0R6u0DoJrYSx7XKT6KbXt9Di6kSGm41ZBvSUZjXbe6MuT1wQH9HtpbXLkC6HAlqIRmtAzFlijXjlSZC1MnO5Pb4OzY4e-23LhSron_VJR3UBiQ2T_gfEKo2py4RUVqrqH-sb11In2FwT-ecYX5NzsP1lDt1bEo8_Mgc3dYkPzlW&uniplatform=NZKPT&language=CHS)
+
+**Kaiming He**, 杨峻岭,李毅博
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[对中国传统道德规范的几点认识——访中国人民大学宋希仁教授](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs5fPIIpMo3IREi7T_9ffY4PQnEOgNwsWR1RunPBWo3aGpgmhK_NypKh23P9W8Q6J3dsAksPDIbxdCK3xvlFeOP_NCHKHbGJKcTKge6C9oSEwlRrd8O0DSx-xmU38U8RHylVTMe3XWRw2pFZOXuBgfbFJDKWw4sn4EngsH_L8zPG4dvTFCInAWzd&uniplatform=NZKPT&language=CHS)
+
+**Kaiming He**, 宋希仁,李毅博
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[传统家训的价值传承及其创新发展——以宋代《袁氏世范》为主要对象](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs4Me6QAx32ER1SGDSnDroVuQKs2O5ZVmw-43P6wBRJJZAW2Lz_gq_itXZiNbIil--XwvdJAJtJFm9E-WT3gaP_LbwC4UVZapC0uTHoEI_-NvyGuRbLCNF95OTZVxKRn76ubi1iGukPRyGQ_5O_zDPV6hSEGcI6uLeL36MChi1Sisq_N8BcyL3teALPrkD7Be7o=&uniplatform=NZKPT&language=CHS)
+
+**Kaiming He**, 杨峻岭,李毅博
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[网络谣言产生的原因分析——基于传播学与心理学的视角](https://kns.cnki.net/kcms2/article/abstract?v=vSXt4VHTcs6NI3NWNrN5eFGqRQN3pmG1K1FZ9ww3cDd54_VzzlG5jJtvQ_hAUt7zNP4MRLm7ZKJNiirKSWjUnKpG_9vowZfGH9gbUjrNcmF6wcSX3OdP0FcL7ZzVi2vTtbk9k2rVaVXtVpeF9bIhguWnc798UyPHRpdItGqiIqV4hWS6Kz-Iw2nh-SPQa8tG&uniplatform=NZKPT&language=CHS)
+
+**Kaiming He**, 冯君颢,李毅博
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -67,4 +116,7 @@ Email：leeyb0809@163.com
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- 2022.06-2022.09, CEC Huaying Cinema Line Co, Beijing
+- 2020.07-2021.07, Affiliated High School of China University of Geosciences (Beijing), Beijing
+- 2019.04-2019.07, China National Convention Centre, Beijing
