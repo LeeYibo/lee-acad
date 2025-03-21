@@ -36,8 +36,8 @@ Email：leeyb0809@163.com
 
 **Authors：**, Yibo Li ,Dongli Yang,Siyuan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract：** 
+- The purpose of this study is to examine the effects of environmental education on students’ attitudes about the environment in Chinese higher education. The findings showed that students’ environmental attitudes can be greatly enhanced by college-level ecology and environmental education. One of the most major factors influencing students’ environmental attitudes in the context of college environmental education is subjective norms, and curriculum education also has a big impact on this. It is possible that Chinese college students today lack the self-efficacy necessary to safeguard the environment since perceived behavioral control has less of an impact on college students’ environmental attitudes than subjective norms and curricular education. This highlights the need of promoting environmental practices and improving college students’ self-perceive and capacity for environmental protection. The study also showed that factors including gender, location, educational level, and economic status of the family had no impact on college students’ environmental attitudes. The results of this study can be used to examine the factors influencing the environmental views of Chinese college students and to teach educators how to raise college students’ awareness of the environment through curricular modifications, classroom instruction, and perceived behavioral control.
 </div>
 </div>
 
@@ -48,8 +48,8 @@ Email：leeyb0809@163.com
 
 **Authors：**, Siyuan Liu*, Xiong Liu, Yibo Li ,Dongli Yang, Feng Li, Junling Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract：** 
+- This study unveils the overall KAP score of waste separation among Chinese college students, which is marginally acceptable. The interviewed students exhibit a positive attitude and a willingness to participate in waste separation. However, there is room for improvement in both knowledge and practices. A lack of knowledge about waste sorting emerges as the primary influence on individual-level practices. Consideration should be given to enhancing education and management of waste separation among college students, emphasizing the cultivation of an eco-conscious culture, and guiding students to establish correct ecological values.
 </div>
 </div>
 
@@ -60,8 +60,8 @@ Email：leeyb0809@163.com
 
 **Authors：**, 杨峻岭,李毅博
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract：** 
+- 马克思主义教育是我们党思想政治工作的重要组成部分，也是我们党长期以来坚持和维护马克思主义在意识形态工作中的主导地位，提升中国共产党人马克思主义理论素养和实践能力，抵御各种风险挑战的有力武器。中国共产党坚持以马克思主义教育服务于党和国家的中心任务，以马克思主义教育推进党性、党风教育，以中国化马克思主义理论最新成果丰富充实马克思主义学习教育的基本内容，以马克思主义教育武装党员、青年，教育人民，培养无产阶级革命和社会主义建设接班人等基本原则，谱写了百年马克思主义教育的光辉历程。 
 </div>
 </div>
 
@@ -72,8 +72,8 @@ Email：leeyb0809@163.com
 
 **Authors**, 宋希仁,李毅博
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract：** 
+- 如果我们始终坚持以批判精神对待中国历史及其道德体系,继其进步、断其落后,取其精华、弃其糟粕,那么中国传统道德规范的这种“不同而一”的精神,应当成为一种强大的凝聚力,惠此中国,以绥四方。 
 </div>
 </div>
 
@@ -84,8 +84,8 @@ Email：leeyb0809@163.com
 
 **Authors：**, 杨峻岭,李毅博
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract：** 
+- 中华民族历来十分重视家庭教育，并在长期的家庭教育实践中，积淀形成了丰富而独具中国特色的家训文化。宋代是我国家训文化发展史上最繁荣的历史时期之一。其中蕴含的亲亲爱人、诚信为本、自强不息、孝老敬亲、廉洁公允的价值观念，依然是当前我国家庭美德伦理建设和社会主义核心价值观培育的宝贵精神财富。
 </div>
 </div>
 
@@ -96,8 +96,8 @@ Email：leeyb0809@163.com
 
 **Authors：**, 冯君颢,李毅博
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Abstract：** 
+- 进入网络信息化时代,互联网多媒体快速发展,给人们带来海量信息的同时,也带了一些负面的影响。网络谣言、网络暴力等现象屡见不鲜,其中网络谣言现象破坏良好的社会风气、破坏了良好的市场环境、扰乱民心、破坏了良好的网络舆论环境。本文基于传播学与心理学相关理论,着重对网络谣言产生的原因进行全面分析。
 </div>
 </div>
 
