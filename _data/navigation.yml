@@ -10,13 +10,13 @@ main:
     url: "/#-publications"
 
   - title: "科研项目"
-    url: "/#-honors-and-awards"
+    url: "/#-scientific-research-projects"
 
   - title: "个人奖项"
-    url: "/#-educations"
+    url: "/#-honors-and-awards"
 
   - title: "教育背景"
-    url: "/#-invited-talks"
+    url: "/#-educations"
 
   - title: "常用链接"
-    url: "/#-internships"
+    url: "/#-links"
