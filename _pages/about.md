@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a lecturer in the School of Marxism of Zhengzhou University of Light Industry, and I graduated from the School of Marxism of China University of Geosciences (Beijing) with a doctorate degree. I am mainly engaged in the research of Marxist theory and ideological and political education, focusing on the field of cultivating the values of the youth in the new era. I am committed to combining the basic principles of Marxism with the practice of youth ideological education, and exploring the dissemination path and internalisation mechanism of socialist core values among youth groups. In recent years, focusing on the theme of ‘Youth Values Cultivation’, he has carried out systematic research under the guidance of Marxist theory, exploring how to help young people set up correct value orientations through multi-dimensional paths such as ideological courses, social practices and cultural infiltration in colleges and universities.
+现任郑州轻工业学院马克思主义学院讲师，毕业于中国地质大学（北京）马克思主义学院，获博士学位。主要从事马克思主义理论与思想政治教育研究，关注新时代青年价值观培育领域。我致力于将马克思主义基本原理与青年思想教育实践相结合，探索社会主义核心价值观在青年群体中的传播路径和内化机制。近年来，围绕 “青年价值观培育 ”主题，在马克思主义理论指导下开展系统研究，探索如何通过高校思想课程、社会实践、文化渗透等多维路径，帮助青年树立正确的价值取向。
 
 Email：leeyb0809@163.com
 
@@ -108,8 +108,8 @@ Email：leeyb0809@163.com
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- 2020.09 - 2024.09, PhD student, School of Marxism. China University of Geosciences (Beijing). 
-- 2017.09 - 2020.06, Master's Degree student, School of Marxism. China University of Geosciences (Beijing). 
+- 2020.09 - 2024.09，马克思主义学院  博士，中国地质大学（北京）。
+- 2017.09 - 2020.06，马克思主义学院  硕士，中国地质大学（北京）。
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -117,6 +117,6 @@ Email：leeyb0809@163.com
 
 # 💻 Internships
 
-- 2022.06-2022.09, CEC Huaying Cinema Line Co, Beijing
-- 2020.07-2021.07, Affiliated High School of China University of Geosciences (Beijing), Beijing
-- 2019.04-2019.07, China National Convention Centre, Beijing
+- 2022.06-2022.09，中电华影电影院线有限公司，北京
+- 2020.07-2021.07，中国地质大学（北京）附属中学，北京
+- 2019.04-2019.07，国家会议中心，北京
