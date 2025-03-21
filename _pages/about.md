@@ -34,9 +34,14 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[The impact of environmental education at Chinese Universities on college students’ environmental attitudes 中国大学环境教育对大学生环境态度的影响](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299231)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Kaiming He**, Yibo Li ,Dongli Yang,Siyuan Liu
+
+[College students’ knowledge, attitudes, and practices of garbage sorting and their associations: a cross-sectional study of several universities in Beijing, China 大学生垃圾分类知识、态度、实践及其关联——基于中国北京多所大学的横断面研究](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1328583/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Public_Health&id=1328583)
+
+**Kaiming He**, Siyuan Liu*, Xiong Liu, Yibo Li ,Dongli Yang, Feng Li, Junling Yang
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
