@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "简介"
-    url: "/#about-me"
+    url: "/lee-acad/#about-me"
 
   - title: "动态"
-    url: "/#-news"
+    url: "/lee-acad/#-news"
 
   - title: "学术成果"
-    url: "/#-publications"
+    url: "/lee-acad/#-publications"
 
   - title: "科研项目"
-    url: "/#-scientific-research-projects"
+    url: "/lee-acad/#-scientific-research-projects"
 
   - title: "个人奖项"
-    url: "/#-honors-and-awards"
+    url: "/lee-acad/#-honors-and-awards"
 
   - title: "教育背景"
-    url: "/#-educations"
+    url: "/lee-acad/#-educations"
 
   - title: "常用链接"
-    url: "/#-links"
+    url: "/lee-acad/#-links"
